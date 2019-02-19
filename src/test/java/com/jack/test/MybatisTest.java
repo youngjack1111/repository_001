@@ -23,5 +23,8 @@ public class MybatisTest {
         }
         session.close();
         is.close();
+
+        // 测试添加工程到git
+        System.out.println("测试添加工程到git");
     }
 }
